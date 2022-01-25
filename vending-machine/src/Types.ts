@@ -1,0 +1,1 @@
+export type obj = {[key: string]: number}
